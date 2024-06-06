@@ -4,7 +4,7 @@
 
 -Presentation:
 
-- [Adding and Marking Completed Tasks](./static/taskmanager.gif)
+- ![Adding and Marking Completed Tasks](./static/taskmanager.gif)
 
 ### To Run the application:
 
